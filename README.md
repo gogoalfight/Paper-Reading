@@ -1,2 +1,3 @@
 # Paper-Reading
-<br>Read, Think, Write.</br>
+Read, Think, Write.  
+Talk is Cheap, Show me the code.
