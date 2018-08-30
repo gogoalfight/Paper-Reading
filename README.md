@@ -1,3 +1,2 @@
 # Paper-Reading
-Read, Think, Write
-Talk is cheap, Show me the code.
+<br>Read, Think, Write.</br>
